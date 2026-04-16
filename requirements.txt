@@ -1,0 +1,2 @@
+# Search 工具：请安装 `ddgs`（原 duckduckgo_search 已更名；旧包某版本仅走 Bing，易无结果）
+ddgs>=9.8.0
