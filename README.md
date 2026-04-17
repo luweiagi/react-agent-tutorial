@@ -182,6 +182,10 @@ Action: Finish[牛顿出生得更早，约早了236年。]
 
 这就是 ReAct 闭环的完整工作过程。
 
+demo效果展示：
+
+<video src="demo.mp4" controls width="400"></video>
+
 ## 核心代码怎么工作
 
 ### 1. `main.py`
